@@ -62,7 +62,7 @@ nav {
 }
 
 nav img {
-    width: 70px;
+    width: 50px;
 }
 
 nav .nav__list {
@@ -97,10 +97,10 @@ nav .nav__list a {
 
 
 .navigation.active {
-    width: 300px;
+    width: 250px;
     height: 250px;
     flex-direction: column;
-    line-height: 2rem;
+    line-height: 3rem;
 }
 
 .navigation .toggleMenu {
